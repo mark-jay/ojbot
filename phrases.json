@@ -34,4 +34,9 @@
         "weight" : 2,
         "minAge" : 18
     },
+    {
+        "phrase" : "доебались до столба",
+        "weight" : 2,
+        "minAge" : 18
+    },
 ]
