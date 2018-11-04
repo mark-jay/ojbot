@@ -24,4 +24,14 @@
         "weight" : 2,
         "minAge" : 18
     },
+    {
+        "phrase" : "это, батенька,",
+        "weight" : 2,
+        "minAge" : 0
+    },
+    {
+        "phrase" : "Выебу и высушу",
+        "weight" : 2,
+        "minAge" : 18
+    },
 ]
